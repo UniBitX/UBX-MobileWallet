@@ -1,6 +1,6 @@
 # ton-chan - A mobile, native UniBit-X wallet
 
-![Screenshot](https://i.imgur.com/M3fZZmH.png)
+![Screenshot](https://github.com/UniBitX/ton-chan/blob/master/ton-chain-unibit-x.png?raw=true)
 
 ## Setup
 
