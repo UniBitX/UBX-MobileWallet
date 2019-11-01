@@ -1,4 +1,4 @@
-# ton-chan - A mobile, native TurtleCoin wallet
+# ton-chan - A mobile, native UniBit-X wallet
 
 ![Screenshot](https://i.imgur.com/M3fZZmH.png)
 
