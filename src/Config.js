@@ -11,7 +11,7 @@ const Config = {
     },
 
     /* If you can't figure this one out, I don't have high hopes */
-    coinName: 'TurtleCoin',
+    coinName: 'UniBit-X',
 
     /* How often to save the wallet, in milliseconds */
     walletSaveFrequency: 60 * 1000,
