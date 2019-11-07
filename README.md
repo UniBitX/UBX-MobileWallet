@@ -1,4 +1,5 @@
-# ton-chan - A mobile, native UniBit-X wallet
+# UniBit-X Wallet 
+## For Android & iOS Devices
 
 ![Screenshot](https://github.com/UniBitX/ton-chan/blob/master/ton-chain-unibit-x.png?raw=true)
 
