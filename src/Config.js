@@ -7,7 +7,7 @@ const Config = {
         /**
          * The primary colour used by the wallet, for TurtleCoin this is green
          */
-        primaryColour: '#40C18E',
+        primaryColour: '#8b56e3',
     },
 
     /* If you can't figure this one out, I don't have high hopes */
