@@ -1,5 +1,5 @@
 # UniBit-X Wallet 
-## For Android & iOS Devices
+For Android & iOS Devices
 
 ![Screenshot](https://github.com/UniBitX/ton-chan/blob/master/ton-chain-unibit-x.png?raw=true)
 
